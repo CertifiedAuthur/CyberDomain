@@ -4,7 +4,7 @@ pinecone-client
 numpy
 pydantic
 structlog
-langchain
+langchain==0.0.319
 PyPDF2 
 PyMuPDF
 pdfplumber
