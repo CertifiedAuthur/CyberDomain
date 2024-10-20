@@ -1,3 +1,19 @@
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/24f8d3cc-aa05-46e0-84fc-e1ed9cbbec29
+
+
+
+
+
+
+
 # Project README: PDF Processing and Information Retrieval
 ### Overview
 This project involves the processing of PDF documents to extract text, generate embeddings, and implement an advanced information retrieval system using Pinecone. 
