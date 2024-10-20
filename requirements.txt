@@ -1,0 +1,7 @@
+streamlit
+langchain-openai
+pinecone-client
+numpy
+pydantic
+structlog
+langchain
