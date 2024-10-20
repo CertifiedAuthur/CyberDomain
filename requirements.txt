@@ -5,3 +5,6 @@ numpy
 pydantic
 structlog
 langchain
+PyPDF2 
+PyMuPDF
+pdfplumber
